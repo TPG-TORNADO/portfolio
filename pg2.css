@@ -1,0 +1,35 @@
+body{
+    text-align:RIGHT;
+    background-image: url(./IMG2.png);
+}
+p,h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: 200;
+     color: #ff0000;
+     text-align: center;
+}
+pre{
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: 200;
+    text-align:right;
+}
+H1{
+    font-size: xx-large;
+}
+.style2 {
+    width: 150px;     
+    height: 150px;     
+    border-radius: 50%;
+}
+.style1 {
+    width: 250px;     
+    height: 250px; 
+    border-radius: 50%;
+}
+.para1 {
+    text-align:left;
+    color: orange;
+}
